@@ -1,0 +1,228 @@
+{
+	"categories": [
+		{
+			"id": "67a7d6562ca73bdaed699f2e",
+			"name": "Céréales"
+		},
+		{
+			"id": "67b8d6562ca73bdaed699f3b",
+			"name": "Condiments & Huiles"
+		},
+		{
+			"id": "67c9d6562ca73bdaed699f4c",
+			"name": "Épicerie"
+		},
+		{
+			"id": "67d7d6562ca73bdaed699f5d",
+			"name": "Produits laitiers"
+		},
+		{
+			"id": "67e8d6562ca73bdaed699f6e",
+			"name": "Boulangerie"
+		},
+		{
+			"id": "67f9d6562ca73bdaed699f7f",
+			"name": "Viandes & Poissons"
+		},
+		{
+			"id": "680ad6562ca73bdaed699f8a",
+			"name": "Fruits & Légumes"
+		},
+		{
+			"id": "681bd6562ca73bdaed699f9b",
+			"name": "Boissons"
+		},
+		{
+			"id": "682cd6562ca73bdaed699fac",
+			"name": "Produits surgelés"
+		},
+		{
+			"id": "683dd6562ca73bdaed699fbd",
+			"name": "Produits d'hygiène"
+		}
+	],
+	"products": {
+		"currentPage": 1,
+		"productsPerPage": 5,
+		"totalProducts": 100,
+		"datas": [
+			{
+				"id": "67a7618d595be272c120ea1f",
+				"name": "Riz",
+				"image": "https://media.istockphoto.com/id/153737841/photo/rice.jpg?s=612x612&w=0&k=20&c=lfO7iLT0UsDDzra0uBOsN1rvr2d5OEtrG2uwbts33_c=",
+				"category": {
+					"id": "67a7d6562ca73bdaed699f2e",
+					"name": "Céréales"
+				},
+				"unitType": "Weight",
+				"price": [
+					{
+						"zone": "Dakar",
+						"unitPrices": [
+							{
+								"unit": 50,
+								"retailer": 2000.0,
+								"consumer": 3000.0
+							},
+							{
+								"unit": 25,
+								"retailer": 1250.0,
+								"consumer": 1400.0
+							}
+						]
+					}
+				],
+				"implementingDecree": "",
+				"updatedAt": "03/02/2025"
+			},
+			{
+				"id": "67b8d7f2595be272c120ea2a",
+				"name": "Huile",
+				"image": "https://media.istockphoto.com/id/139172845/photo/olive-oil.jpg?s=612x612&w=0&k=20&c=3WpQnHkKJzR5ytdmc_5erWuwLWiPMe5CqohQhzefU7o=",
+				"category": {
+					"id": "67b8d6562ca73bdaed699f3b",
+					"name": "Condiments & Huiles"
+				},
+				"unitType": "Volume",
+				"price": [
+					{
+						"zone": "Dakar",
+						"unitPrices": [
+							{
+								"unit": 5,
+								"retailer": 7000.0,
+								"consumer": 8500.0
+							},
+							{
+								"unit": 1,
+								"retailer": 1500.0,
+								"consumer": 1800.0
+							}
+						]
+					}
+				],
+				"implementingDecree": "",
+				"updatedAt": "03/02/2025"
+			},
+			{
+				"id": "67c9d8e3595be272c120ea3b",
+				"name": "Sucre",
+				"image": "https://media.istockphoto.com/id/519103283/photo/sugar.jpg?s=612x612&w=0&k=20&c=7YquG8Z9YxqZ9MiEFL5K_yU8pjSDZpSPav5hB9b_lWw=",
+				"category": {
+					"id": "67c9d6562ca73bdaed699f4c",
+					"name": "Épicerie"
+				},
+				"unitType": "Weight",
+				"price": [
+					{
+						"zone": "Dakar",
+						"unitPrices": [
+							{
+								"unit": 50,
+								"retailer": 18000.0,
+								"consumer": 20000.0
+							},
+							{
+								"unit": 1,
+								"retailer": 500.0,
+								"consumer": 600.0
+							}
+						]
+					}
+				],
+				"implementingDecree": "",
+				"updatedAt": "03/02/2025"
+			},
+			{
+				"id": "67d7e9f4595be272c120ea4c",
+				"name": "Lait en poudre",
+				"image": "https://media.istockphoto.com/id/157282618/photo/powdered-milk.jpg?s=612x612&w=0&k=20&c=YLMQ2rFSnXmLdvDQsdRAOfXX2b4PE_ez0aTXpp3POWY=",
+				"category": {
+					"id": "67d7d6562ca73bdaed699f5d",
+					"name": "Produits laitiers"
+				},
+				"unitType": "Weight",
+				"price": [
+					{
+						"zone": "Dakar",
+						"unitPrices": [
+							{
+								"unit": 25,
+								"retailer": 45000.0,
+								"consumer": 50000.0
+							},
+							{
+								"unit": 1,
+								"retailer": 1800.0,
+								"consumer": 2000.0
+							}
+						]
+					}
+				],
+				"implementingDecree": "",
+				"updatedAt": "03/02/2025"
+			},
+			{
+				"id": "67e8f0a5595be272c120ea5d",
+				"name": "Pain",
+				"image": "https://media.istockphoto.com/id/157431006/photo/bread.jpg?s=612x612&w=0&k=20&c=cnYfVuZ0vh_cD0Lf-lN5IcQx0Se-GXniYVbBhOWHyyk=",
+				"category": {
+					"id": "67e8d6562ca73bdaed699f6e",
+					"name": "Boulangerie"
+				},
+				"unitType": "Unit",
+				"price": [
+					{
+						"zone": "Dakar",
+						"unitPrices": [
+							{
+								"unit": 1,
+								"retailer": 150.0,
+								"consumer": 175.0
+							}
+						]
+					}
+				],
+				"implementingDecree": "",
+				"updatedAt": "03/02/2025"
+			}
+		]
+	},
+	"news": {
+		"currentPage": 1,
+		"productsPerPage": 5,
+		"totalProducts": 100,
+		"datas": [
+			{
+				"id": "67a7618d595be272c120ea1f",
+				"title": "Nouvelle offre de réduction pour les céréales",
+				"image": "https://media.istockphoto.com/id/139172845/photo/olive-oil.jpg?s=612x612&w=0&k=20&c=3WpQnHkKJzR5ytdmc_5erWuwLWiPMe5CqohQhzefU7o=",
+				"createdAt": "03/02/2025"
+			},
+			{
+				"id": "67b8618d595be272c120ea2a",
+				"title": "Hausse des prix des produits laitiers",
+				"image": "https://media.istockphoto.com/id/157431793/photo/dairy-products.jpg?s=612x612&w=0&k=20&c=ISn6KfLsD5VJDqTavGo_7FZVVmXJ5b0-1-6U_BFTlGk=",
+				"createdAt": "02/02/2025"
+			},
+			{
+				"id": "67c9618d595be272c120ea3b",
+				"title": "Promotion spéciale sur les viandes et poissons",
+				"image": "https://media.istockphoto.com/id/637884038/photo/fresh-meat-selection.jpg?s=612x612&w=0&k=20&c=DGqIRX-cgQ8yKqprGZZCNb67GAOnXUsaFN7D_xeg5tk=",
+				"createdAt": "01/02/2025"
+			},
+			{
+				"id": "67d9618d595be272c120ea4c",
+				"title": "Les fruits et légumes de saison disponibles",
+				"image": "https://media.istockphoto.com/id/1179423806/photo/fresh-fruits-and-vegetables.jpg?s=612x612&w=0&k=20&c=USSnB5J6OMHyA5R03sMnN8jzskH2xaG99ZTfLLnoA5s=",
+				"createdAt": "31/01/2025"
+			},
+			{
+				"id": "67e9618d595be272c120ea5d",
+				"title": "Réduction sur les boissons rafraîchissantes",
+				"image": "https://media.istockphoto.com/id/1252807962/photo/refreshing-drinks.jpg?s=612x612&w=0&k=20&c=FdpKxaAYfsU7OB0p2efT07A8xRBo1Hc4AN2PqTyflqA=",
+				"createdAt": "30/01/2025"
+			}
+		]
+	}
+}
